@@ -22,6 +22,8 @@ void push(StackNode **root, int new_data)
 - Discuss in groups how the code works?
 - Why do we need to use double pointers?
 
+Double pointers, or pointers to pointers, are used in some programming situations where we need to modify a pointer itself or when we want to create and modify a dynamic array of pointers.
+
 ## Task 3: Individual (At home)
 
 Practice: Asymptotic Analysis and Upper Bounds. Refer to the following link:
